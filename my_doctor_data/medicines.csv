@@ -1,0 +1,22 @@
+id,name,common_price,type,dose,category
+med001,Paracetamol,50.0,tablet,500mg,Pain Relief
+med002,Ibuprofen,90.0,tablet,400mg,Pain Relief
+med003,Aspirin,45.0,tablet,300mg,Pain Relief
+med004,Diclofenac,120.0,tablet,50mg,Pain Relief
+med005,Naproxen,150.0,tablet,250mg,Pain Relief
+med006,Amoxicillin,80.0,capsule,500mg,Antibiotic
+med007,Ciprofloxacin,95.0,tablet,500mg,Antibiotic
+med008,Doxycycline,110.0,capsule,100mg,Antibiotic
+med009,Azithromycin,200.0,tablet,500mg,Antibiotic
+med010,Cetirizine,40.0,tablet,10mg,Allergy
+med011,Loratadine,45.0,tablet,10mg,Allergy
+med012,Metformin,60.0,tablet,500mg,Diabetes
+med013,Glibenclamide,55.0,tablet,5mg,Diabetes
+med014,Atenolol,35.0,tablet,50mg,Cardiovascular
+med015,Amlodipine,40.0,tablet,5mg,Cardiovascular
+med016,Omeprazole,75.0,capsule,20mg,Gastrointestinal
+med017,Ranitidine,50.0,tablet,150mg,Gastrointestinal
+med018,Salbutamol,120.0,inhaler,100mcg,Respiratory
+med019,Montelukast,85.0,tablet,10mg,Respiratory
+med020,Vitamin C,25.0,tablet,500mg,Vitamin
+med021,Vitamin D,30.0,capsule,1000IU,Vitamin
